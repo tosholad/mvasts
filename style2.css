@@ -1,0 +1,97 @@
+body {
+	background-color: white;
+	background-position: center;
+  	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+#myHeader {
+	color: white;
+	font-size: 60px;
+	text-align: center;
+  	border-radius: 25px;
+  	background: #73AD21;
+  	background-position: center;
+ 	padding: 20px;
+  	 
+}
+#greetings {
+	color: dimgrey;
+	font-size: 40px;
+	text-align: center;
+	font-style: italic;
+	font: sans-serif;
+}
+.topnav a {
+ 	float: left;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+ 	font-size: 17px;
+ 	border-radius: 10px;
+ 	background-color:#ddd ;
+}
+
+
+.topnav a:hover {
+	background-color: #ddd;
+ 	color: black;
+}
+
+
+.topnav a.split {
+ 	float: right;	
+	background-color: #04AA6D;
+	color: white;
+
+}
+
+#container1	{
+	color: white;
+	font-size: 70px;
+  	border-radius: 25px;
+  	margin-left: 150px;
+  	margin-right: 150px;
+  	background: #73AD21;
+  	text-align: center;
+
+
+ 	
+
+
+}
+#container2	{
+	color: white;
+	font-size: 70px;
+  	border-radius: 25px;
+  	background: #73AD21;
+  	margin-left: 150px;
+  	margin-right: 150px;
+  	text-align: center;
+}
+#container3	{
+	color: white;
+	font-size: 70px;
+  	border-radius: 25px;
+  	background: #73AD21;
+  	margin-left: 150px;
+  	margin-right: 150px;
+  	text-align: center;
+
+}
+#container4	{
+	color: white;
+	font-size: 70px;
+  	border-radius: 25px;
+  	background: #73AD21;
+  	margin-left: 150px;
+  	margin-right: 150px;
+  	text-align: center;
+ 	
+}
+
+ 	
+
+
+	
+
